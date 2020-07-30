@@ -18,5 +18,4 @@ VueJs
 
 [Click to View Live]()
 
-## Output
-
+## [Output](https://github.com/JonasAnn/vue-test/blob/master/src/assets/test.png)
